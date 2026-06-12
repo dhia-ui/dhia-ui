@@ -23,34 +23,46 @@
 
 ---
 
-## 🧬 System Config
+## 🧬 About Me
 
-```yaml
-# /etc/dhia.conf ─────────────────────────────────────────────
+<table>
+<tr>
+<td width="50%" valign="top">
 
-identity:
-  name       : "Dhia Eddine Ktiti"
-  location   : "Mourouj 6, Ben Arous, Tunisia 🇹🇳"
-  education  : "B.Sc. Software Engineering — ISTIC (2022–2025)"
-  portfolio  : "dhia-portfolio-psi.vercel.app"
+### 👤 Identity
+| | |
+|---|---|
+| 📍 | Mourouj 6, Ben Arous, Tunisia 🇹🇳 |
+| 🎓 | B.Sc. Software Engineering — ISTIC (2022–2025) |
+| 🌐 | [dhia-portfolio-psi.vercel.app](https://dhia-portfolio-psi.vercel.app) |
+| 💬 | Arabic 🌙 · English B1/B2 · French A2/B1 |
 
-roles:
-  - "Full-Stack Developer  (React · FastAPI · Three.js)"
-  - "AI / ML Engineer      (EasyOCR · CV · Custom Models)"
-  - "Security Researcher   (Pentest · OWASP · Docker Hardening)"
-  - "Media Manager         (Radio ISTIC — YouTube / Insta / Spotify)"
-  - "CTF Competitor        (SparkCTF #10 · ValentineCTF #13)"
+### 🎭 Roles
+![Full-Stack](https://img.shields.io/badge/Full--Stack_Developer-7c3aed?style=flat-square&logo=react&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI_%26_ML_Engineer-0ea5e9?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Security_Researcher-dc2626?style=flat-square&logo=hackthebox&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF_Competitor_%23Top13-f59e0b?style=flat-square&logo=target&logoColor=white)
+![Media](https://img.shields.io/badge/Media_Manager_@_Radio_ISTIC-ec4899?style=flat-square&logo=spotify&logoColor=white)
 
-certs:
-  - "🔴  CLLMSP — LLM Security Professional   (June 2026)"
-  - "📊  IBM Data Fundamentals                 (April 2026)"
-  - "☁️   Aviatrix Multicloud Associate  ACE"
-  - "🛡️   Certified Cybersecurity Educator      (Feb 2024)"
-  - "🎨  Design & Infographics — CIFOP-IMS     (July 2022)"
+</td>
+<td width="50%" valign="top">
 
-spoken_languages: { Arabic: Native, English: B1/B2, French: A2/B1 }
-status: "OPEN TO OPPORTUNITIES ✅"
-```
+### 📜 Certifications
+| Badge | Certification | Date |
+|---|---|---|
+| 🔴 | **CLLMSP** — LLM Security Pro | Jun 2026 |
+| 📊 | **IBM** Data Fundamentals | Apr 2026 |
+| ☁️ | **Aviatrix** Multicloud ACE | — |
+| 🛡️ | **CCEP** Cybersecurity Educator | Feb 2024 |
+| 🎨 | Design & Infographics CIFOP-IMS | Jul 2022 |
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
