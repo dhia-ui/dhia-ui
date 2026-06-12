@@ -1,272 +1,340 @@
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&reversal=false&animation=fadeIn" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=DHIA%20EDDINE%20KTITI&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full-Stack%20·%20AI%20·%20Security%20·%20Builder%20⚡&descAlignY=62&descSize=20&stroke=7B2FF7&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=130&text=DHIA%20EDDINE%20KTITI&fontSize=62&fontColor=fff&animation=blinking&fontAlignY=55&desc=⚡%20Hacking%20·%20Building%20·%20Shipping%20·%20Repeating%20⚡&descAlignY=82&descSize=17" />
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=700&color=A855F7&background=00000000&center=true&vCenter=true&width=700&lines=🔐+Security+Researcher+%26+Penetration+Tester;🤖+AI+%26+ML+Engineer;🌐+Full-Stack+Web+Developer;🗺️+Building+Production-Grade+Systems;🏆+CTF+Competitor+%7C+Top+13+Nationally)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=600&color=FF6EC7&background=00000000&center=true&vCenter=true&width=750&lines=🔐+LLM+Security+Professional+%7C+Red+Team+Certified;🤖+AI+Engineer+%7C+EasyOCR+%7C+Computer+Vision;🌐+Full-Stack+Developer+%7C+React+·+FastAPI+·+Three.js;🏆+CTF+Competitor+%7C+SparkCTF+10th+%7C+ValentineCTF+13th;☁️+Multicloud+Associate+%7C+AWS+·+Azure+·+GCP;📡+Media+Manager+%40+Radio+ISTIC)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-7B2FF7?style=for-the-badge&logoColor=white)](https://dhia-portfolio-psi.vercel.app)
-[![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logoColor=white)](mailto:dhiaguetiti@gmail.com)
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dhia--portfolio-B244F5?style=for-the-badge)](https://dhia-portfolio-psi.vercel.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/📬_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhiaguetiti@gmail.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Guetiti-Dhia)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhia-ui)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhia_guetiti)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhia-ui/dhia-ui/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhia-ui/dhia-ui/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dhia-ui/dhia-ui/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
-## 🧬 `whoami`
+---
 
-```python
-class DhiaEddineKtiti:
-    
-    location    = "Mourouj 6, Ben Arous, Tunisia 🇹🇳"
-    education   = "B.Sc. Software Engineering — ISTIC (2022–2025)"
-    
-    roles       = [
-        "Full-Stack Developer",
-        "AI / ML Engineer",
-        "Security Researcher",
-        "CTF Competitor",
-        "Media Manager @ Radio ISTIC",
-    ]
-    
-    certifications = [
-        "🔴 Certified LLM Security Professional (CLLMSP)",
-        "📊 IBM Data Fundamentals",
-        "☁️  Aviatrix Multicloud Network Associate (ACE)",
-        "🛡️  Certified Cybersecurity Educator Professional (CCEP)",
-    ]
-    
-    languages   = { "Arabic": "Native", "English": "B1/B2", "French": "A2/B1" }
-    available   = True  # open to opportunities 🚀
+## 🧬 `cat /etc/dhia.conf`
+
+```yaml
+# ============================================================
+#   DHIA EDDINE KTITI  —  System Configuration File
+# ============================================================
+
+identity:
+  name       : "Dhia Eddine Ktiti"
+  location   : "Mourouj 6, Ben Arous, Tunisia 🇹🇳"
+  education  : "B.Sc. Software Engineering — ISTIC Borj Cédria (2022–2025)"
+  portfolio  : "dhia-portfolio-psi.vercel.app"
+
+roles:
+  primary    : "Full-Stack Developer + AI Engineer"
+  secondary  : "Security Researcher | Penetration Tester"
+  creative   : "Media Manager @ Radio ISTIC | Graphic Designer"
+
+stack:
+  languages  : [Python, TypeScript, Java, Dart, PHP]
+  frontend   : [React, Next.js, Angular, Vue, Three.js, Flutter, Tailwind]
+  backend    : [FastAPI, Spring Boot, Node.js, REST APIs, Microservices]
+  ai_ml      : [EasyOCR, OpenCV, Custom Model Training, Computer Vision]
+  security   : [Burp Suite, OWASP Top 10, Pen Testing, Docker Hardening]
+  databases  : [PostgreSQL, MySQL, MongoDB, Supabase]
+  cloud      : [AWS, Azure, GCP, Docker, Linux, Vercel]
+
+languages_spoken:
+  Arabic     : "Native 🌙"
+  English    : "B1/B2 — Professional"
+  French     : "A2/B1 — Conversational"
+
+certifications:
+  - "🔴  CLLMSP — Certified LLM Security Professional  (June 2026)"
+  - "📊  IBM Data Fundamentals                          (April 2026)"
+  - "☁️   Aviatrix Multicloud Network Associate (ACE)"
+  - "🛡️   Certified Cybersecurity Educator (CCEP)       (Feb 2024)"
+  - "🎨  Design & Infographics — CIFOP-IMS              (July 2022)"
+
+status       : "OPEN TO OPPORTUNITIES ✅"
+# ============================================================
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 <table>
 <tr>
-<td width="60px" align="center">🏭</td>
+<td valign="top" width="50">
+
+```
+2025
+ |
+ |
+ ▼
+```
+
+</td>
 <td>
 
-**Full-Stack & AI Developer** — *Sotunol Platform* `2025`  
-> Production-grade microservices web application for a real industrial client in Tunisia.
+### 🏭 Full-Stack & AI Developer — *Sotunol Platform*
+> **Industry Collaboration · Tunis, Tunisia · Production-Grade**
 
-- 🎯 Built **React + Tailwind + Three.js** frontend & **FastAPI** microservices backend
-- 🗄️ Designed **PostgreSQL** architecture with advanced data lifecycle (soft/hard delete, restore by ID)
-- 🤖 Trained & deployed **3 custom AI models** for check, Kimbiale & invoice processing
-- 🔍 Integrated **EasyOCR** for intelligent document data extraction
-- 🗺️ Developed an **interactive POS mapping system** with real-time geospatial visualization
+<table>
+<tr><td>🎨 <b>Frontend</b></td><td>React.js · Tailwind CSS · Three.js — interactive, real-time UI</td></tr>
+<tr><td>⚙️ <b>Backend</b></td><td>FastAPI microservices with modular, scalable REST architecture</td></tr>
+<tr><td>🗄️ <b>Database</b></td><td>PostgreSQL with soft/hard delete & restore-by-ID lifecycle</td></tr>
+<tr><td>🤖 <b>AI Models</b></td><td>3 custom models deployed — checks, Kimbiale & invoices</td></tr>
+<tr><td>🔍 <b>OCR</b></td><td>EasyOCR integrated for intelligent document data extraction</td></tr>
+<tr><td>🗺️ <b>Maps</b></td><td>National-scale POS mapping with geospatial visualization</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🚀 Key Projects
+## 🚀 Projects
 
-<details open>
-<summary><b>🔐 Security Audit & System Hardening — Flask REST API &nbsp;<code>2026</code></b></summary>
-<br>
+<div align="center">
 
-> `Python` `Flask` `Docker` `Burp Suite` `OWASP`
+```
+┌──────────────────────────┐  ┌──────────────────────────┐
+│  🔐 SECURITY AUDIT        │  │  📡 RADIO ISTIC PORTAL    │
+│  Flask · Docker · OWASP  │  │  Next.js · Node · MongoDB │
+│                           │  │                           │
+│  Full-scope pentest +     │  │  Full-stack member portal │
+│  white/black-box audit.   │  │  for Radio ISTIC — built  │
+│  Hardened Docker, code    │  │  while serving as Media   │
+│  obfuscation, security    │  │  Manager. SPA + REST API. │
+│  monitoring dashboard.    │  │                           │
+│                           │  │                           │
+│  ★ OWASP Top 10 applied   │  │  ★ Built & shipped solo   │
+└──────────────────────────┘  └──────────────────────────┘
 
-**Full-scope security audit combining white-box and black-box assessment.**
+┌──────────────────────────┐  ┌──────────────────────────┐
+│  🗺️ POS MAPPING SYSTEM   │  │  🤖 AI DOC PIPELINE       │
+│  React · Three.js · API  │  │  Python · EasyOCR · PSQL  │
+│                           │  │                           │
+│  Real-time geospatial     │  │  3 trained AI models for  │
+│  visualization across a   │  │  check, Kimbiale & invoice│
+│  national partner network.│  │  recognition. Slashed     │
+│  3D-rendered with live    │  │  manual data entry across │
+│  FastAPI backend data.    │  │  the Sotunol platform.    │
+│                           │  │                           │
+│  ★ Three.js + live data   │  │  ★ End-to-end ML pipeline │
+└──────────────────────────┘  └──────────────────────────┘
+```
 
-| Area | What was done |
-|------|--------------|
-| 🔍 White-Box | Source code review, auth analysis, access control verification |
-| 💥 Black-Box | Penetration testing, endpoint enumeration, HTTP header validation |
-| 🐳 Docker | Attack surface reduction, Dockerfile hardening, .dockerignore |
-| 🔒 Remediations | Broken Access Control, CORS Misconfiguration, Rate Limiting, Crypto Weaknesses |
-| 🧩 Obfuscation | Reverse Engineering risk analysis + Code Obfuscation implementation |
-| 📊 Dashboard | Built a Security Monitoring Dashboard tracking all vulnerabilities & fixes |
-
-> 📖 References: **OWASP Top 10 · OWASP API Security Top 10 · Docker Security Best Practices**
-
-</details>
-
-<details open>
-<summary><b>📡 Radio ISTIC Member Portal &nbsp;<code>2026</code></b></summary>
-<br>
-
-> `Next.js` `Node.js` `MongoDB`
-
-Full-stack platform for Radio ISTIC members to interact, share content & coordinate activities. Built as Media Manager while also serving as its architect and sole developer.
-
-</details>
-
-<details open>
-<summary><b>🗺️ Interactive POS Mapping System &nbsp;<code>2025</code></b></summary>
-<br>
-
-> `React.js` `Three.js` `FastAPI` `PostgreSQL`
-
-Real-time geospatial visualization system with **Three.js 3D rendering** + live FastAPI backend for tracking partner sales locations across a national network.
-
-</details>
-
-<details open>
-<summary><b>🤖 Sotunol AI Document Processing Pipeline &nbsp;<code>2025</code></b></summary>
-<br>
-
-> `Python` `EasyOCR` `FastAPI` `PostgreSQL`
-
-Trained and deployed **3 custom AI models** for automated recognition and data extraction from checks, Kimbiale documents, and invoices — significantly reducing manual entry overhead.
-
-</details>
+</div>
 
 <details>
-<summary><b>🌐 Sawarni — Full-Stack Web Application &nbsp;<code>2024</code></b></summary>
+<summary>📂 <b>View All Projects Details</b></summary>
 <br>
 
+### 🔐 Security Audit & Hardening — Flask REST API `2026`
+
+> `Python` `Flask` `Docker` `Burp Suite` `OWASP ZAP` `Nmap`
+
+| Scope | Details |
+|-------|---------|
+| 🔍 White-Box | Source code review · Auth analysis · Access control verification |
+| 💥 Black-Box | Pen testing · Endpoint enumeration · HTTP header validation |
+| 🐳 Docker | Attack surface reduction · Dockerfile hardening · `.dockerignore` |
+| 🔒 Findings | Broken Access Control · CORS · Rate Limiting · Crypto Weaknesses · Info Disclosure |
+| 🧩 Defense | Reverse Engineering analysis + Code Obfuscation implementation |
+| 📊 Dashboard | Security Monitoring Dashboard tracking all CVEs, fixes & compliance |
+
+> References: **OWASP Top 10 · OWASP API Security Top 10 · Docker Security Best Practices**
+
+---
+
+### 📡 Radio ISTIC Member Portal `2026`
+> `Next.js` `Node.js` `MongoDB`
+
+Full-stack member platform — designed, built and deployed solo while simultaneously managing the station's digital presence.
+
+---
+
+### 🗺️ Interactive POS Mapping System `2025`
+> `React.js` `Three.js` `FastAPI` `PostgreSQL`
+
+National-scale geospatial system. Three.js handles 3D rendering; FastAPI streams live partner location data. Real-time, dynamic, production-deployed.
+
+---
+
+### 🌐 Sawarni `2024`
 > `Angular` `PHP` `MySQL`
 
-Full-stack application built from the ground up with RESTful APIs, user authentication, and responsive UI.
+Full-stack web app from scratch — RESTful APIs, auth, and a fully responsive UI.
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠 Tech Arsenal
 
 <div align="center">
 
-### ⚡ Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Core Languages
+[![Skills](https://skillicons.dev/icons?i=python,ts,java,dart,php,js&perline=8)](https://skillicons.dev)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+### Frontend & Mobile
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,flutter,threejs,tailwind,bootstrap,vite,sass&perline=10)](https://skillicons.dev)
 
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+### Backend & APIs
+[![Skills](https://skillicons.dev/icons?i=fastapi,spring,nodejs,express&perline=8)](https://skillicons.dev)
 
-### 🔐 Security & Audit
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### Databases
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,elasticsearch&perline=8)](https://skillicons.dev)
 
-### 🤖 AI / ML
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
+### Cloud · DevOps · Security
+[![Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,git,github,postman&perline=8)](https://skillicons.dev)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Design & Creative
+[![Skills](https://skillicons.dev/icons?i=figma,framer,ai,ps&perline=8)](https://skillicons.dev)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhia-ui&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhia-ui&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br/>
 
-| 🎯 Achievement | 📋 Details |
-|---------------|-----------|
-| 🚩 **SparkCTF** | **10th Place** — Cybersecurity Capture The Flag |
-| 💘 **ValentineCTF** | **13th Place** — Cybersecurity Capture The Flag |
-| 📡 **Media Manager** | Radio ISTIC — YouTube, Instagram & Spotify management |
-| 🎨 **Freelance Designer** | Visual identity & branding for Troupe Layali El Ons |
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| 🎖️ | Achievement | Details |
+|-----|------------|---------|
+| 🚩 | **SparkCTF — 10th Place** | National cybersecurity capture-the-flag |
+| 💘 | **ValentineCTF — 13th Place** | Cybersecurity CTF competition |
+| 📡 | **Media Manager — Radio ISTIC** | YouTube · Instagram · Spotify management |
+| 🌐 | **Portal Developer** | Built & shipped full-stack Radio ISTIC member platform |
+| 🎨 | **Freelance Designer** | Full visual identity — logos, cards & flyers for Troupe Layali El Ons |
+
+</div>
+
+---
 
 ## 📜 Certifications
 
 <div align="center">
 
-| Badge | Certification | Issuer | Date |
-|-------|--------------|--------|------|
-| 🔴 | **Certified LLM Security Professional (CLLMSP)** | Red Team Leaders | June 2026 |
-| 📊 | **IBM Data Fundamentals** | IBM SkillsBuild | April 2026 |
+| 🎓 | Certification | Issuer | Date |
+|----|--------------|--------|------|
+| 🔴 | **Certified LLM Security Professional (CLLMSP)** | Red Team Leaders | `June 2026` |
+| 📊 | **IBM Data Fundamentals** | IBM SkillsBuild | `April 2026` |
 | ☁️ | **Aviatrix Multicloud Network Associate (ACE)** | Aviatrix / Credly | — |
-| 🛡️ | **Certified Cybersecurity Educator Professional (CCEP)** | — | Feb 2024 |
-| 🎨 | **Certificate in Design and Infographics** | CIFOP-IMS | July 2022 |
+| 🛡️ | **Certified Cybersecurity Educator Professional (CCEP)** | — | `Feb 2024` |
+| 🎨 | **Certificate in Design & Infographics** | CIFOP-IMS | `July 2022` |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhia-ui&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=E2E8F0&ring_color=7B2FF7" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhia-ui&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6EC7&icon_color=B244F5&text_color=E2E8F0" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-ui&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-ui&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF6EC7&text_color=E2E8F0" height="175"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=dhia-ui&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=E2E8F0&dates=94A3B8" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=dhia-ui&theme=radical&hide_border=true&background=0D1117&ring=B244F5&fire=FF6EC7&currStreakLabel=FF6EC7&sideLabels=E2E8F0&dates=94A3B8" />
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhia-ui&bg_color=0D1117&color=A855F7&line=EC4899&point=F59E0B&area=true&hide_border=true&area_color=7B2FF720)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhia-ui&theme=radical" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhia-ui&theme=radical" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhia-ui&theme=radical" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhia-ui&theme=radical" height="180"/>
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhia-ui&bg_color=0D1117&color=B244F5&line=FF6EC7&point=FFD700&area=true&hide_border=true&area_color=B244F520)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
 
 ## 🌐 Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Site-7B2FF7?style=for-the-badge)](https://dhia-portfolio-psi.vercel.app)
+<a href="https://dhia-portfolio-psi.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-B244F5?style=for-the-badge&logoColor=white" />
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Guetiti-Dhia)
+<a href="mailto:dhiaguetiti@gmail.com">
+  <img src="https://img.shields.io/badge/📬_Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/Guetiti-Dhia">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhiaguetiti@gmail.com)
+<a href="https://instagram.com/dhia_guetiti">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhia_guetiti)
+<a href="https://facebook.com/Dhia%20Guettiti">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<br/><br/>
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=dhia-ui&label=Profile%20Visitors&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=dhia-ui&label=Profile%20Visitors&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<br/>
-
-> *"Security is not a product, but a process."* — Bruce Schneier
+> *"Security is not a product, but a process."* — **Bruce Schneier**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&reversal=true&animation=fadeIn" />
