@@ -1,7 +1,6 @@
 #!/bin/bash
-# Deploy the new GitHub profile README + assets
-# Usage: place this script in the same folder as README.md and assets/,
-# then run: bash setup.sh
+# Deploy the self-contained profile README (images embedded, no assets/ folder needed)
+# Usage: place this script next to README.md, then run: bash setup.sh
 
 set -e
 
@@ -18,17 +17,18 @@ git clone "https://github.com/${GITHUB_USER}/${GITHUB_USER}.git" "$REPO_DIR" || 
   exit 1
 }
 
-echo "==> Copying files in..."
-mkdir -p "${REPO_DIR}/assets"
+echo "==> Copying README in (self-contained, no assets/ folder needed)..."
 cp README.md "${REPO_DIR}/README.md"
-cp assets/visual-map.gif "${REPO_DIR}/assets/visual-map.gif"
-cp assets/system-info.png "${REPO_DIR}/assets/system-info.png"
-cp assets/projects-grid.png "${REPO_DIR}/assets/projects-grid.png"
 
 cd "$REPO_DIR"
+# clean up the old assets folder if a previous version left one behind
+if [ -d "assets" ]; then
+  git rm -r assets --quiet || true
+fi
+
 echo "==> Committing and pushing..."
-git add README.md assets/visual-map.gif assets/system-info.png assets/projects-grid.png
-git commit -m "Redesign profile README: terminal theme + particle-to-photo reveal"
+git add -A
+git commit -m "Self-contained README: embed visuals as base64 to fix broken images"
 git push origin main || git push origin master
 
 echo "==> Done. Check https://github.com/${GITHUB_USER}"
