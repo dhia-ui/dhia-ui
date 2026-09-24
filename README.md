@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060a1a,50:2ee2f0,100:c48cfc&height=200&section=header&text=Dhia%20Eddine%20Ktiti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Security%20Researcher&descAlignY=60&descSize=16&descColor=e7ecf7" alt="Header banner for Dhia Eddine Ktiti" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060a1a,50:2ee2f0,100:c48cfc&height=140&section=header&text=Dhia%20Eddine%20Ktiti&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Security%20Researcher&descAlignY=58&descSize=13&descColor=e7ecf7" alt="Header banner for Dhia Eddine Ktiti" />
 
-  <h2>Building secure, production-ready products at the intersection of AI, web, and cloud.</h2>
+  <h3>Building secure, production-ready products at the intersection of AI, web, and cloud.</h3>
 
   <p>
     <a href="https://dhia-portfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-060a1a?style=for-the-badge&logo=googlechrome&logoColor=2ee2f0" alt="Portfolio website" /></a>
@@ -34,7 +34,7 @@ I design and deliver full-stack platforms with practical AI integrations, strong
 <div align="center">
   <picture>
     <source srcset="./visual-map.gif" type="image/gif" />
-    <img src="./system-info.png" width="95%" alt="Animated 3D-style visual map of Dhia's profile identity with static system-info fallback" />
+    <img src="./system-info.png" width="320" alt="Animated 3D-style visual map of Dhia's profile identity with static system-info fallback" />
   </picture>
 </div>
 
@@ -54,10 +54,6 @@ I design and deliver full-stack platforms with practical AI integrations, strong
 
 ## Selected projects
 
-<div align="center">
-  <img src="./projects-grid.png" width="95%" alt="Selected project cards" />
-</div>
-
 | Project | Focus | Link |
 |---|---|---|
 | Sotunol API | FastAPI microservices and enterprise backend architecture | [dhia-ui/Sotunol-API-](https://github.com/dhia-ui/Sotunol-API-) |
@@ -70,10 +66,10 @@ I design and deliver full-stack platforms with practical AI integrations, strong
 ## Activity & stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhia-ui&show_icons=true&hide_border=false&border_color=2ee2f0&include_all_commits=true&count_private=true&bg_color=060a1a&title_color=2ee2f0&icon_color=c48cfc&text_color=e7ecf7" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-ui&hide_border=false&border_color=2ee2f0&layout=compact&bg_color=060a1a&title_color=2ee2f0&text_color=e7ecf7" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dhia-ui&show_icons=true&hide_border=false&border_color=2ee2f0&include_all_commits=true&count_private=true&bg_color=060a1a&title_color=2ee2f0&icon_color=c48cfc&text_color=e7ecf7" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-ui&hide_border=false&border_color=2ee2f0&layout=compact&bg_color=060a1a&title_color=2ee2f0&text_color=e7ecf7" alt="Top languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=dhia-ui&hide_border=true&background=060a1a&ring=2ee2f0&fire=c48cfc&currStreakLabel=2ee2f0&sideLabels=e7ecf7&dates=8a97b5&stroke=2ee2f0&sideNums=e7ecf7&currStreakNum=e7ecf7" alt="GitHub streak" />
+  <img width="760" src="https://streak-stats.demolab.com?user=dhia-ui&hide_border=true&background=060a1a&ring=2ee2f0&fire=c48cfc&currStreakLabel=2ee2f0&sideLabels=e7ecf7&dates=8a97b5&stroke=2ee2f0&sideNums=e7ecf7&currStreakNum=e7ecf7" alt="GitHub streak" />
 </div>
 
 ---
