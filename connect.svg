@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 430" width="1280" height="430" role="img" aria-label="Let’s connect"><title>Let’s connect</title><desc>Contact cards: GitHub, email, LinkedIn, Instagram.</desc>
+<defs>
+<linearGradient id="gname" x1="0" x2="1"><stop offset="0" stop-color="#2ee2f0"/><stop offset="1" stop-color="#c48cfc"/></linearGradient>
+<linearGradient id="gcard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a31"/><stop offset="1" stop-color="#0e1426"/></linearGradient>
+<linearGradient id="gline" x1="0" x2="1"><stop offset="0" stop-color="#2ee2f0" stop-opacity=".9"/><stop offset=".5" stop-color="#c48cfc" stop-opacity=".5"/><stop offset="1" stop-color="#2ee2f0" stop-opacity=".9"/></linearGradient>
+<radialGradient id="glowA" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#2ee2f0" stop-opacity=".35"/><stop offset="1" stop-color="#2ee2f0" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowB" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#c48cfc" stop-opacity=".30"/><stop offset="1" stop-color="#c48cfc" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity=".05"/></pattern>
+<filter id="blur8"><feGaussianBlur stdDeviation="8"/></filter>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.sans{font-family:'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;font-weight:700}
+.sans5{font-family:'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;font-weight:500}
+.mute{fill:#8a97b5}
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes scan{0%{transform:translateY(0);opacity:0}10%{opacity:.9}90%{opacity:.9}100%{transform:translateY(var(--sh,200px));opacity:0}}
+@keyframes beam{0%,100%{opacity:.05}50%{opacity:.13}}
+@keyframes dash{to{stroke-dashoffset:-60}}
+.fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
+.fi{animation:fadeIn .7s ease both}
+.blink{animation:blink 1s steps(1) infinite}
+.spin{animation:spin 24s linear infinite;transform-box:fill-box;transform-origin:center}
+.spinr{animation:spinr 36s linear infinite;transform-box:fill-box;transform-origin:center}
+.float{animation:float 5s ease-in-out infinite}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+
+</style>
+</defs>
+<rect width="1280" height="430" rx="22" fill="#070b1a"/>
+<rect width="1280" height="430" rx="22" fill="url(#dots)"/>
+<rect x="1" y="1" width="1278" height="428" rx="21" fill="none" stroke="url(#gline)" stroke-width="1.5"/><g transform="translate(60 60)"><rect width="520" height="310" rx="16" fill="url(#gcard)" stroke="#22305a"/><circle cx="260" cy="155" r="170" fill="url(#glowB)"/><circle cx="260" cy="155" r="150.0" fill="url(#glowA)" class="pulse"/>
+<g transform="translate(260 155) scale(1.0)">
+ <g class="spin" opacity=".9"><circle r="118" fill="none" stroke="#2ee2f0" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="3 9"/></g>
+ <g class="spinr"><circle r="136" fill="none" stroke="#c48cfc" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="40 22"/></g>
+ <path d="M0 -92 L78 -62 V6 C78 56 40 86 0 104 C-40 86 -78 56 -78 6 V-62 Z" fill="#121a31" stroke="url(#gname)" stroke-width="4"/>
+ <path d="M0 -70 L58 -47 V4 C58 41 30 64 0 78 C-30 64 -58 41 -58 4 V-47 Z" fill="none" stroke="#2ee2f0" stroke-opacity=".25" stroke-width="1.5"/>
+ <path d="M-30 -14 L-50 6 L-30 26" fill="none" stroke="#2ee2f0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M30 -14 L50 6 L30 26" fill="none" stroke="#c48cfc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M8 -26 L-8 38" fill="none" stroke="#e7ecf7" stroke-width="7" stroke-linecap="round"/>
+</g></g><text x="100" y="110" font-size="14" font-weight="700" fill="#2ee2f0" opacity=".85" class="float" style="animation-delay:0s">&lt;/&gt;</text><text x="480" y="120" font-size="14" font-weight="700" fill="#c48cfc" opacity=".85" class="float" style="animation-delay:1s">{ }</text><text x="110" y="300" font-size="14" font-weight="700" fill="#2fd48a" opacity=".85" class="float" style="animation-delay:2s">0xCAFE</text><text x="470" y="310" font-size="14" font-weight="700" fill="#ff7a1a" opacity=".85" class="float" style="animation-delay:1.5s">AES-256</text><text x="640" y="84" font-size="12" letter-spacing="3" font-weight="700" fill="#ff7a1a">// JOIN THE SQUAD</text><text x="640" y="132" font-size="38" class="sans" fill="#e7ecf7">Let’s build something secure</text><g class="fu" style="animation-delay:0.3s"><rect x="640" y="164" width="276" height="72" rx="12" fill="#0e1426" stroke="#2ee2f0" stroke-opacity=".55"/>
+<rect x="654" y="180" width="40" height="40" rx="10" fill="#2ee2f0" fill-opacity=".14"/><circle cx="674" cy="200" r="6" fill="#2ee2f0" class="pulse"/>
+<text x="708" y="196" font-size="15" font-weight="700" fill="#e7ecf7" class="sans">GitHub</text><text x="708" y="216" font-size="11.5" class="mute">@dhia-ui</text></g><g class="fu" style="animation-delay:0.42s"><rect x="930" y="164" width="276" height="72" rx="12" fill="#0e1426" stroke="#ff7a1a" stroke-opacity=".55"/>
+<rect x="944" y="180" width="40" height="40" rx="10" fill="#ff7a1a" fill-opacity=".14"/><circle cx="964" cy="200" r="6" fill="#ff7a1a" class="pulse"/>
+<text x="998" y="196" font-size="15" font-weight="700" fill="#e7ecf7" class="sans">Email</text><text x="998" y="216" font-size="11.5" class="mute">dhiaguetiti@gmail.com</text></g><g class="fu" style="animation-delay:0.54s"><rect x="640" y="250" width="276" height="72" rx="12" fill="#0e1426" stroke="#c48cfc" stroke-opacity=".55"/>
+<rect x="654" y="266" width="40" height="40" rx="10" fill="#c48cfc" fill-opacity=".14"/><circle cx="674" cy="286" r="6" fill="#c48cfc" class="pulse"/>
+<text x="708" y="282" font-size="15" font-weight="700" fill="#e7ecf7" class="sans">LinkedIn</text><text x="708" y="302" font-size="11.5" class="mute">in/guetiti-dhia</text></g><g class="fu" style="animation-delay:0.6599999999999999s"><rect x="930" y="250" width="276" height="72" rx="12" fill="#0e1426" stroke="#2fd48a" stroke-opacity=".55"/>
+<rect x="944" y="266" width="40" height="40" rx="10" fill="#2fd48a" fill-opacity=".14"/><circle cx="964" cy="286" r="6" fill="#2fd48a" class="pulse"/>
+<text x="998" y="282" font-size="15" font-weight="700" fill="#e7ecf7" class="sans">Instagram</text><text x="998" y="302" font-size="11.5" class="mute">@dhia_guetiti</text></g><text x="640" y="366" font-size="12" class="mute"><tspan fill="#ff7a1a">◆</tspan> Open to freelance, collabs and full-time roles</text>
+</svg>

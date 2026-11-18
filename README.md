@@ -1,98 +1,74 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060a1a,50:2ee2f0,100:c48cfc&height=140&section=header&text=Dhia%20Eddine%20Ktiti&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Security%20Researcher&descAlignY=58&descSize=13&descColor=e7ecf7" alt="Header banner for Dhia Eddine Ktiti" />
 
-  <h3>Building secure, production-ready products at the intersection of AI, web, and cloud.</h3>
+<!-- 🎬 HERO -->
+<img src="./hero.svg?v=1" alt="Hi, I'm Dhia Eddine Ktiti — Full-Stack Developer, AI Backend and Application Security" width="100%"/>
 
-  <p>
-    <a href="https://dhia-portfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-060a1a?style=for-the-badge&logo=googlechrome&logoColor=2ee2f0" alt="Portfolio website" /></a>
-    <a href="mailto:dhiaguetiti@gmail.com"><img src="https://img.shields.io/badge/Email-060a1a?style=for-the-badge&logo=gmail&logoColor=c48cfc" alt="Email Dhia" /></a>
-    <a href="https://www.linkedin.com/in/guetiti-dhia/"><img src="https://img.shields.io/badge/LinkedIn-060a1a?style=for-the-badge&logo=linkedin&logoColor=2ee2f0" alt="LinkedIn profile" /></a>
-  </p>
+<br/><br/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=dhia-ui&label=PROFILE+VIEWS&color=060a1a&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ee2f0?style=for-the-badge&labelColor=060a1a" alt="Open to opportunities" />
-  </p>
+<!-- 🛡️ MY WAY -->
+<img src="./about.svg?v=1" alt="My way — secure interfaces, backends and AI" width="100%"/>
+
+<br/><br/>
+
+<!-- 🔦 TECH STACK -->
+<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
+
+<br/><br/>
+
+<!-- 🪪 ID CARD + DASHBOARD -->
+<img src="./id.svg?v=1" alt="Operator ID card and profile dashboard" width="100%"/>
+
+<br/><br/>
+
 </div>
 
----
+## 🛡️ Selected Missions
 
-## Introduction
-
-I design and deliver full-stack platforms with practical AI integrations, strong backend architecture, and a security-first mindset. My focus is clean execution: scalable APIs, maintainable frontends, and measurable business value.
-
-### Value proposition
-
-- Ship reliable web + AI features with production-quality engineering standards.
-- Turn complex workflows into simple, usable interfaces.
-- Improve trust and resilience through applied security practices.
-
----
-
-## Visual identity
+<table>
+<tr><th>Mission</th><th>What it is</th><th>Stack</th></tr>
+<tr><td><a href="https://github.com/dhia-ui/Sotunol-API-"><b>Sotunol API</b></a></td><td>FastAPI microservices and enterprise backend architecture</td><td><code>Python</code> <code>FastAPI</code></td></tr>
+<tr><td><a href="https://github.com/dhia-ui/sotunol_enterprise_5189"><b>Sotunol Enterprise</b></a></td><td>Enterprise platform built around the Sotunol API</td><td><code>Full-Stack</code></td></tr>
+<tr><td><a href="https://github.com/dhia-ui/Train-Model"><b>Train Model</b></a></td><td>Model training and practical ML delivery</td><td><code>Python</code> <code>scikit-learn</code></td></tr>
+<tr><td><a href="https://github.com/dhia-ui/End-points-IA"><b>End-points IA</b></a></td><td>AI model endpoints exposed as usable APIs</td><td><code>Python</code> <code>AI</code></td></tr>
+<tr><td><a href="https://github.com/dhia-ui/radio-istic"><b>Radio ISTIC</b></a></td><td>Full-stack web product for the student / campus community</td><td><code>React</code> <code>TypeScript</code></td></tr>
+<tr><td><a href="https://github.com/dhia-ui/dhia-portfolio-"><b>Portfolio</b></a></td><td>Interactive personal portfolio experience</td><td><code>React</code> <code>Three.js</code></td></tr>
+<tr><td><a href="https://github.com/dhia-ui/PFE"><b>PFE</b></a></td><td>Final-year project</td><td><code>Full-Stack</code></td></tr>
+<tr><td><a href="https://github.com/dhia-ui/enactus-formulaire"><b>Enactus Formulaire</b></a></td><td>Registration form for the Enactus community</td><td><code>Web</code></td></tr>
+</table>
 
 <div align="center">
-  <picture>
-    <source srcset="./visual-map.gif" type="image/gif" />
-    <img src="./system-info.png" width="320" alt="Animated 3D-style visual map of Dhia's profile identity with static system-info fallback" />
-  </picture>
+
+<a href="https://github.com/dhia-ui?tab=repositories"><b>→ See all repositories</b></a>
+
+<br/><br/>
+
+### 🌃 My contribution village
+
+*Every commit raises another building — rebuilt automatically every day.*
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/dhia-ui/dhia-ui/output/github-snake-cyan.svg" alt="Contribution snake" width="100%"/>
+
+<br/><br/>
+
+<!-- 💌 CONNECT -->
+<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
+
+<a href="https://github.com/dhia-ui"><img src="https://img.shields.io/badge/GitHub-2ee2f0?style=for-the-badge&logo=github&logoColor=060a1a" alt="GitHub"/></a>
+<a href="mailto:dhiaguetiti@gmail.com"><img src="https://img.shields.io/badge/Email-ff7a1a?style=for-the-badge&logo=gmail&logoColor=060a1a" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/guetiti-dhia/"><img src="https://img.shields.io/badge/LinkedIn-c48cfc?style=for-the-badge&logo=linkedin&logoColor=060a1a" alt="LinkedIn"/></a>
+<a href="https://instagram.com/dhia_guetiti"><img src="https://img.shields.io/badge/Instagram-2fd48a?style=for-the-badge&logo=instagram&logoColor=060a1a" alt="Instagram"/></a>
+<a href="https://dhia-portfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-e7ecf7?style=for-the-badge&logo=googlechrome&logoColor=060a1a" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dhia-ui&color=2ee2f0&style=for-the-badge&label=VISITORS" alt="Profile views"/>
+
+<br/><br/>
+
+**Security is a process — keep building, keep hardening.** 🛡️
+
 </div>
-
----
-
-## Skills & tooling
-
-| Area | Stack |
-|---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript&logoColor=3178c6) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=f7df1e) |
-| Frontend | ![React](https://img.shields.io/badge/React-111827?style=flat&logo=react&logoColor=61dafb) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=flat&logo=tailwindcss&logoColor=38bdf8) ![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat&logo=threedotjs&logoColor=white) |
-| Backend | ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat&logo=fastapi&logoColor=00c7b7) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat&logo=postgresql&logoColor=336791) |
-| AI / ML | ![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat&logo=scikitlearn&logoColor=f7931e) ![EasyOCR](https://img.shields.io/badge/EasyOCR-111827?style=flat&logo=opencv&logoColor=5c3ee8) |
-| Cloud & Security | ![AWS](https://img.shields.io/badge/AWS-111827?style=flat&logo=amazonaws&logoColor=ff9900) ![Azure](https://img.shields.io/badge/Azure-111827?style=flat&logo=microsoftazure&logoColor=3b82f6) ![GCP](https://img.shields.io/badge/GCP-111827?style=flat&logo=googlecloud&logoColor=4285f4) ![OWASP](https://img.shields.io/badge/OWASP-111827?style=flat&logo=owasp&logoColor=white) |
-
----
-
-## Selected projects
-
-| Project | Focus | Link |
-|---|---|---|
-| Sotunol API | FastAPI microservices and enterprise backend architecture | [dhia-ui/Sotunol-API-](https://github.com/dhia-ui/Sotunol-API-) |
-| Portfolio | Interactive personal portfolio experience | [dhia-ui/dhia-portfolio-](https://github.com/dhia-ui/dhia-portfolio-) |
-| AI model work | Model training and practical ML delivery | [dhia-ui/Train-Model](https://github.com/dhia-ui/Train-Model) |
-| Community platform | Full-stack web product for student/community use | [dhia-ui/radio-istic](https://github.com/dhia-ui/radio-istic) |
-
----
-
-## Activity & stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dhia-ui&show_icons=true&hide_border=false&border_color=2ee2f0&include_all_commits=true&count_private=true&bg_color=060a1a&title_color=2ee2f0&icon_color=c48cfc&text_color=e7ecf7" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-ui&hide_border=false&border_color=2ee2f0&layout=compact&bg_color=060a1a&title_color=2ee2f0&text_color=e7ecf7" alt="Top languages" />
-  <br/>
-  <img width="760" src="https://streak-stats.demolab.com?user=dhia-ui&hide_border=true&background=060a1a&ring=2ee2f0&fire=c48cfc&currStreakLabel=2ee2f0&sideLabels=e7ecf7&dates=8a97b5&stroke=2ee2f0&sideNums=e7ecf7&currStreakNum=e7ecf7" alt="GitHub streak" />
-</div>
-
----
-
-## Highlights
-
-- 🛡️ **Certified LLM Security Professional (CLLMSP)**
-- 🚩 **SparkCTF:** 10th place nationally
-- 💘 **ValentineCTF:** 13th place nationally
-- ☁️ **Aviatrix Multicloud Associate (ACE)**
-
----
-
-## Contact
-
-<div align="center">
-  <a href="https://dhia-portfolio-psi.vercel.app">Portfolio</a> •
-  <a href="mailto:dhiaguetiti@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/guetiti-dhia/">LinkedIn</a> •
-  <a href="https://instagram.com/dhia_guetiti">Instagram</a>
-
-  <br/><br/>
-  <em>"Security is not a product, but a process." — Bruce Schneier</em>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c48cfc,50:2ee2f0,100:060a1a&height=120&section=footer&animation=fadeIn" alt="Footer wave" />
